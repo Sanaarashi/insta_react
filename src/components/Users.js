@@ -1,7 +1,10 @@
 import React from 'react';
 import User from './User';
+import InstaService from '../services/instaservice';
 
 export default function Users() {
+    
+
     return (
         <div className="right">
                 <User 
